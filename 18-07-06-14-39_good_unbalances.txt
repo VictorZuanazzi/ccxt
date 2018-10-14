@@ -1,0 +1,9 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'BTC', 'trair': ['BCH/BTC', 'BCH/EUR', 'BTC/EUR'], 'Unbalance factor': 1.0005044077134986, 'Volume': 0.01280524, 'Sequence': 1, 'Time Stamp': '18-07-06-14-39'}
+{'profit_coin': 'BTC', 'trair': ['BCH/BTC', 'BCH/EUR', 'BTC/EUR'], 'Unbalance factor': 1.0005580732458272, 'Volume': 0.01280524, 'Sequence': 1, 'Time Stamp': '18-07-06-14-40'}
+{'profit_coin': 'BTC', 'trair': ['BCH/BTC', 'BCH/EUR', 'BTC/EUR'], 'Unbalance factor': 1.0005044077134986, 'Volume': 0.01280524, 'Sequence': 1, 'Time Stamp': '18-07-06-14-40'}
+{'profit_coin': 'BTC', 'trair': ['BCH/BTC', 'BCH/EUR', 'BTC/EUR'], 'Unbalance factor': 1.0007548468643654, 'Volume': 0.01280524, 'Sequence': 1, 'Time Stamp': '18-07-06-14-41'}
+{'profit_coin': 'BTC', 'trair': ['BCH/BTC', 'BCH/EUR', 'BTC/EUR'], 'Unbalance factor': 1.0007548468643654, 'Volume': 0.01280524, 'Sequence': 1, 'Time Stamp': '18-07-06-14-41'}
+{'profit_coin': 'BTC', 'trair': ['BCH/BTC', 'BCH/EUR', 'BTC/EUR'], 'Unbalance factor': 1.0007548468643654, 'Volume': 0.01280524, 'Sequence': 1, 'Time Stamp': '18-07-06-14-41'}
+{'profit_coin': 'BTC', 'trair': ['BCH/BTC', 'BCH/EUR', 'BTC/EUR'], 'Unbalance factor': 1.0007548468643654, 'Volume': 0.01280524, 'Sequence': 1, 'Time Stamp': '18-07-06-14-42'}
+{'profit_coin': 'BTC', 'trair': ['BCH/BTC', 'BCH/EUR', 'BTC/EUR'], 'Unbalance factor': 1.0008264009074705, 'Volume': 0.01280524, 'Sequence': 1, 'Time Stamp': '18-07-06-14-43'}

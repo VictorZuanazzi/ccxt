@@ -1,0 +1,6 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'USDT', 'trair': ['KCS/USDT', 'NEO/KCS', 'NEO/USDT'], 'Unbalance factor': 1.007796616775128, 'Volume': 0.056762940000000005, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-08-09'}
+{'profit_coin': 'ETH', 'trair': ['ETH/USDT', 'HAV/USDT', 'HAV/ETH'], 'Unbalance factor': 1.0044237859567773, 'Volume': 4.56680099e-06, 'Sequence': 'straight', 'Time Stamp': '18-07-10-08-18'}
+{'profit_coin': 'BTC', 'trair': ['KCS/BTC', 'NEO/KCS', 'NEO/BTC'], 'Unbalance factor': 1.0064408392388688, 'Volume': 2.106699e-05, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-08-19'}
+{'profit_coin': 'BTC', 'trair': ['CS/BTC', 'CS/ETH', 'ETH/BTC'], 'Unbalance factor': 1.0034272609275334, 'Volume': 4.4730000000000006e-09, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-08-21'}
+{'profit_coin': 'ETH', 'trair': ['ETH/USDT', 'HAV/USDT', 'HAV/ETH'], 'Unbalance factor': 1.0043910831845655, 'Volume': 4.5583986e-06, 'Sequence': 'straight', 'Time Stamp': '18-07-10-08-27'}

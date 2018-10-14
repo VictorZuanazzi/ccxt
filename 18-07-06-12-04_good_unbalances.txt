@@ -1,0 +1,2 @@
+### Possibly profitable unbalances ###
+[{'profit_coin': 'BTC', 'trair': ['BCH/BTC', 'BCH/USD', 'BTC/USD'], 'Unbalance factor': 1.0003977146625187, 'Volume': 0.041283749999999994, 'Sequence': 0}]

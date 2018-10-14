@@ -1,0 +1,3 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'BTC', 'trair': ['BCH/BTC', 'BCH/EUR', 'BTC/EUR'], 'Unbalance factor': 1.0010330883540621, 'Volume': 0.00320885, 'Sequence': 1, 'Time Stamp': '18-07-06-14-52'}
+{'profit_coin': 'BTC', 'trair': ['BCH/BTC', 'BCH/USD', 'BTC/USD'], 'Unbalance factor': 1.0005478359439406, 'Volume': 0.00320885, 'Sequence': 1, 'Time Stamp': '18-07-06-14-52'}

@@ -1,0 +1,3 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'LYM/ETH', 'LYM/BTC'], 'Unbalance factor': 1.003695127118644, 'Volume': 0.04061029, 'Sequence': 'inverse', 'Time Stamp': '18-07-12-18-14'}
+{'profit_coin': 'ETH', 'trair': ['ETH/USDT', 'HAV/USDT', 'HAV/ETH'], 'Unbalance factor': 1.0095382373132176, 'Volume': 0.231439909843659, 'Sequence': 'straight', 'Time Stamp': '18-07-12-18-17'}

@@ -1,0 +1,7 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'BTC', 'trair': ['ABT/BTC', 'ABT/ETH', 'EBTC/ETH'], 'Unbalance factor': 97293.41928315866, 'Volume': 0.003227798132, 'Sequence': 0, 'Time Stamp': '18-07-06-14-54'}
+{'profit_coin': 'BTC', 'trair': ['ACAT/BTC', 'ACAT/ETH', 'EBTC/ETH'], 'Unbalance factor': 102274.77072468979, 'Volume': 0.0013216672590000002, 'Sequence': 0, 'Time Stamp': '18-07-06-14-54'}
+{'profit_coin': 'BTC', 'trair': ['ACT/BTC', 'ACT/ETH', 'EBTC/ETH'], 'Unbalance factor': 105052.6073210955, 'Volume': 0.00023825193, 'Sequence': 0, 'Time Stamp': '18-07-06-14-54'}
+{'profit_coin': 'ETH', 'trair': ['ACT/ETH', 'ACT/USDT', 'ETH/USDT'], 'Unbalance factor': 1.0021703626023981, 'Volume': 0.014247421299999998, 'Sequence': 1, 'Time Stamp': '18-07-06-14-54'}
+{'profit_coin': 'BTC', 'trair': ['ADB/BTC', 'ADB/ETH', 'EBTC/ETH'], 'Unbalance factor': 103214.58246780226, 'Volume': 0.0016524850759999999, 'Sequence': 0, 'Time Stamp': '18-07-06-14-54'}
+{'profit_coin': 'BTC', 'trair': ['AGI/BTC', 'AGI/ETH', 'EBTC/ETH'], 'Unbalance factor': 103976.03070509888, 'Volume': 0.07061460124800001, 'Sequence': 0, 'Time Stamp': '18-07-06-14-54'}

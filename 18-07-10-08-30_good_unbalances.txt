@@ -1,0 +1,7 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'MAN/ETH', 'MAN/BTC'], 'Unbalance factor': 1.003731967235874, 'Volume': 0.029800085931, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-08-43'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'ETN/ETH', 'ETN/BTC'], 'Unbalance factor': 1.003488243169399, 'Volume': 3.0195e-05, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-08-50'}
+{'profit_coin': 'ETH', 'trair': ['CS/ETH', 'CS/USDT', 'ETH/USDT'], 'Unbalance factor': 1.0034653595168068, 'Volume': 1.4e-06, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-09-12'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'TNC/ETH', 'TNC/BTC'], 'Unbalance factor': 1.0038214168859647, 'Volume': 0.004021859808, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-09-17'}
+{'profit_coin': 'ETH', 'trair': ['LOOM/ETH', 'LOOM/NEO', 'NEO/ETH'], 'Unbalance factor': 1.004590818803796, 'Volume': 0.00032705288999999995, 'Sequence': 'straight', 'Time Stamp': '18-07-10-09-18'}
+{'profit_coin': 'ETH', 'trair': ['NEO/ETH', 'TKY/NEO', 'TKY/ETH'], 'Unbalance factor': 1.0032177339901478, 'Volume': 0.00157436082, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-09-18'}

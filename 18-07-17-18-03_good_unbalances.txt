@@ -1,0 +1,5 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'BTC', 'trair': ['BOS/BTC', 'BOS/ETH', 'ETH/BTC'], 'Unbalance factor': 1.0105158176713989, 'Volume': 4.7062400000000007e-07, 'Sequence': 'inverse', 'Time Stamp': '18-07-17-18-24'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'EXY/ETH', 'EXY/BTC'], 'Unbalance factor': 1.009858132500867, 'Volume': 0.00025135147200000004, 'Sequence': 'inverse', 'Time Stamp': '18-07-17-18-27'}
+{'profit_coin': 'BTC', 'trair': ['BOS/BTC', 'BOS/ETH', 'ETH/BTC'], 'Unbalance factor': 1.0068902221747287, 'Volume': 1.334e-09, 'Sequence': 'inverse', 'Time Stamp': '18-07-17-18-32'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'ZINC/ETH', 'ZINC/BTC'], 'Unbalance factor': 1.003790295286794, 'Volume': 7.028125e-06, 'Sequence': 'inverse', 'Time Stamp': '18-07-17-18-41'}

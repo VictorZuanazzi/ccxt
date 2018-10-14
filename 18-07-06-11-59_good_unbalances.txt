@@ -1,0 +1,13 @@
+### Possibly profitable unbalances ###
+[None]
+[None, None]
+[None, None, None]
+[None, None, None, None]
+[None, None, None, None, None]
+[None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None]

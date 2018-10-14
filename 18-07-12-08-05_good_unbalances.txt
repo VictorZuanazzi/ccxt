@@ -1,0 +1,2 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'ETH', 'trair': ['CS/ETH', 'CS/KCS', 'KCS/ETH'], 'Unbalance factor': 1.0032068654019872, 'Volume': 0.00050805216, 'Sequence': 'straight', 'Time Stamp': '18-07-12-08-07'}

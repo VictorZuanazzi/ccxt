@@ -1,0 +1,2 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'BTC', 'trair': ['BTC/USDT', 'HAV/USDT', 'HAV/BTC'], 'Unbalance factor': 1.0162688148604109, 'Volume': 6.172657838e-05, 'Sequence': 'straight', 'Time Stamp': '18-07-12-12-11'}

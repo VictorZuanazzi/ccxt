@@ -1,0 +1,22 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'ETH', 'trair': ['CS/ETH', 'CS/USDT', 'ETH/USDT'], 'Unbalance factor': 1.004289466144411, 'Volume': 7.709e-07, 'Sequence': 'straight', 'Time Stamp': '18-07-10-14-50'}
+{'profit_coin': 'BTC', 'trair': ['CV/BTC', 'CV/ETH', 'ETH/BTC'], 'Unbalance factor': 1.0061152784202687, 'Volume': 2.4425999999999997e-06, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-14-50'}
+{'profit_coin': 'BTC', 'trair': ['DRGN/BTC', 'DRGN/NEO', 'NEO/BTC'], 'Unbalance factor': 1.0079988856810247, 'Volume': 4.2950000000000006e-09, 'Sequence': 'straight', 'Time Stamp': '18-07-10-14-51'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'EXY/ETH', 'EXY/BTC'], 'Unbalance factor': 1.0036394462462541, 'Volume': 0.011635983200000002, 'Sequence': 'straight', 'Time Stamp': '18-07-10-14-52'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'HPB/ETH', 'HPB/BTC'], 'Unbalance factor': 1.0040587298642218, 'Volume': 0.011351656257857999, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-14-52'}
+{'profit_coin': 'BTC', 'trair': ['BTC/USDT', 'HAV/USDT', 'HAV/BTC'], 'Unbalance factor': 1.006673148293032, 'Volume': 0.07, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-14-57'}
+{'profit_coin': 'BTC', 'trair': ['CV/BTC', 'CV/ETH', 'ETH/BTC'], 'Unbalance factor': 1.005398735288823, 'Volume': 6.141e-07, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-14-58'}
+{'profit_coin': 'BTC', 'trair': ['ETC/BTC', 'ETC/ETH', 'ETH/BTC'], 'Unbalance factor': 1.0031259510690866, 'Volume': 3.4713e-07, 'Sequence': 'straight', 'Time Stamp': '18-07-10-14-59'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'LALA/ETH', 'LALA/BTC'], 'Unbalance factor': 1.00380947247191, 'Volume': 6.832814e-06, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-15-00'}
+{'profit_coin': 'ETH', 'trair': ['ETH/USDT', 'HAV/USDT', 'HAV/ETH'], 'Unbalance factor': 1.005982873580614, 'Volume': 0.0010768, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-15-03'}
+{'profit_coin': 'BTC', 'trair': ['CBC/BTC', 'CBC/ETH', 'ETH/BTC'], 'Unbalance factor': 1.0061859097839898, 'Volume': 8.291832e-06, 'Sequence': 'straight', 'Time Stamp': '18-07-10-15-06'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'POLY/ETH', 'POLY/BTC'], 'Unbalance factor': 1.0060644979055597, 'Volume': 5.2520000000000005e-09, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-15-09'}
+{'profit_coin': 'ETH', 'trair': ['NEO/ETH', 'SOUL/NEO', 'SOUL/ETH'], 'Unbalance factor': 1.0063480434581338, 'Volume': 2.45e-08, 'Sequence': 'straight', 'Time Stamp': '18-07-10-15-12'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'HAV/ETH', 'HAV/BTC'], 'Unbalance factor': 1.0097987205163046, 'Volume': 6.859995000000001e-10, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-15-16'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'ONT/ETH', 'ONT/BTC'], 'Unbalance factor': 1.0041137757907679, 'Volume': 0.00033718271999999994, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-15-25'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'VEN/ETH', 'VEN/BTC'], 'Unbalance factor': 1.004096094197292, 'Volume': 2.0667852e-06, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-15-26'}
+{'profit_coin': 'BTC', 'trair': ['BTC/USDT', 'LTC/USDT', 'LTC/BTC'], 'Unbalance factor': 1.0031360586417921, 'Volume': 2.5813805199999997e-05, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-15-29'}
+{'profit_coin': 'BTC', 'trair': ['CAPP/BTC', 'CAPP/ETH', 'ETH/BTC'], 'Unbalance factor': 1.0087806552431735, 'Volume': 0.00043370619999999997, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-15-29'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'ONT/ETH', 'ONT/BTC'], 'Unbalance factor': 1.0036881010623173, 'Volume': 0.00033687833199999996, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-15-33'}
+{'profit_coin': 'BTC', 'trair': ['CAPP/BTC', 'CAPP/ETH', 'ETH/BTC'], 'Unbalance factor': 1.0054667592515882, 'Volume': 1.8159999999999999e-07, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-15-38'}
+{'profit_coin': 'BTC', 'trair': ['ELEC/BTC', 'ELEC/ETH', 'ETH/BTC'], 'Unbalance factor': 1.008012343543799, 'Volume': 9.353899999999999e-07, 'Sequence': 'inverse', 'Time Stamp': '18-07-10-15-39'}

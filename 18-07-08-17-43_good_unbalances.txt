@@ -1,0 +1,16 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'BTC', 'trair': ['BTC/USDT', 'KCS/USDT', 'KCS/BTC'], 'Unbalance factor': 1.003267349399473, 'Volume': 'NA', 'Sequence': 'inverse', 'Time Stamp': '18-07-08-17-44'}
+{'profit_coin': '', 'trair': ['DRGN/KCS', 'DRGN/NEO', 'NEO/KCS'], 'Unbalance factor': 70.69945679034454, 'Volume': 'NA', 'Sequence': 'inverse', 'Time Stamp': '18-07-08-17-45'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'LOOM/ETH', 'LOOM/BTC'], 'Unbalance factor': 1.004530575877431, 'Volume': 'NA', 'Sequence': 'straight', 'Time Stamp': '18-07-08-17-47'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'TIME/ETH', 'TIME/BTC'], 'Unbalance factor': 1.004326422972676, 'Volume': 'NA', 'Sequence': 'inverse', 'Time Stamp': '18-07-08-17-49'}
+{'profit_coin': '', 'trair': ['GAS/KCS', 'GAS/NEO', 'NEO/KCS'], 'Unbalance factor': 22.7030223736617, 'Volume': 'NA', 'Sequence': 'straight', 'Time Stamp': '18-07-08-17-50'}
+{'profit_coin': 'BTC', 'trair': ['DBC/BTC', 'DBC/ETH', 'ETH/BTC'], 'Unbalance factor': 1.004045574678242, 'Volume': 'NA', 'Sequence': 'inverse', 'Time Stamp': '18-07-08-17-53'}
+{'profit_coin': 'USDT', 'trair': ['DENT/USDT', 'DENT/NEO', 'NEO/USDT'], 'Unbalance factor': 1.009232636776947, 'Volume': 'NA', 'Sequence': 'inverse', 'Time Stamp': '18-07-08-17-53'}
+{'profit_coin': '', 'trair': ['DRGN/KCS', 'DRGN/NEO', 'NEO/KCS'], 'Unbalance factor': 74.44041745899722, 'Volume': 'NA', 'Sequence': 'inverse', 'Time Stamp': '18-07-08-17-53'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'LOOM/ETH', 'LOOM/BTC'], 'Unbalance factor': 1.0076521670857173, 'Volume': 'NA', 'Sequence': 'straight', 'Time Stamp': '18-07-08-17-55'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'RHOC/ETH', 'RHOC/BTC'], 'Unbalance factor': 1.0031599397472137, 'Volume': 'NA', 'Sequence': 'straight', 'Time Stamp': '18-07-08-17-56'}
+{'profit_coin': '', 'trair': ['GAS/KCS', 'GAS/NEO', 'NEO/KCS'], 'Unbalance factor': 22.70472264016506, 'Volume': 'NA', 'Sequence': 'straight', 'Time Stamp': '18-07-08-17-57'}
+{'profit_coin': 'ETH', 'trair': ['NEO/ETH', 'TKY/NEO', 'TKY/ETH'], 'Unbalance factor': 1.0035250883720928, 'Volume': 'NA', 'Sequence': 'inverse', 'Time Stamp': '18-07-08-17-58'}
+{'profit_coin': '', 'trair': ['DRGN/KCS', 'DRGN/NEO', 'NEO/KCS'], 'Unbalance factor': 74.55042132190178, 'Volume': 'NA', 'Sequence': 'inverse', 'Time Stamp': '18-07-08-18-01'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'TRAC/ETH', 'TRAC/BTC'], 'Unbalance factor': 1.0048399684631377, 'Volume': 'NA', 'Sequence': 'straight', 'Time Stamp': '18-07-08-18-05'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'UKG/ETH', 'UKG/BTC'], 'Unbalance factor': 1.0042179983563444, 'Volume': 'NA', 'Sequence': 'inverse', 'Time Stamp': '18-07-08-18-05'}

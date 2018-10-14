@@ -1,0 +1,4 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'J8T/ETH', 'J8T/BTC'], 'Unbalance factor': 1.0034409900534231, 'Volume': 1.2300000000000001e-10, 'Sequence': 'straight', 'Time Stamp': '18-07-12-17-35'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'OLT/ETH', 'OLT/BTC'], 'Unbalance factor': 1.0032578729984303, 'Volume': 8.007090000000001e-07, 'Sequence': 'inverse', 'Time Stamp': '18-07-12-17-36'}
+{'profit_coin': 'BTC', 'trair': ['ETH/BTC', 'HAV/ETH', 'HAV/BTC'], 'Unbalance factor': 1.009073882209318, 'Volume': 5.0004999813999994e-05, 'Sequence': 'straight', 'Time Stamp': '18-07-12-17-51'}

@@ -1,0 +1,2 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'ETH', 'trair': ['CS/ETH', 'CS/USDT', 'ETH/USDT'], 'Unbalance factor': 1.00069375, 'Volume': 5.525499999999999e-05, 'Sequence': 1, 'Time Stamp': '18-07-07-18-18'}

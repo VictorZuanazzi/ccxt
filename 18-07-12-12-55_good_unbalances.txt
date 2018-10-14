@@ -1,0 +1,2 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'BTC', 'trair': ['AGI/BTC', 'AGI/ETH', 'ETH/BTC'], 'Unbalance factor': 1.0047997462601874, 'Volume': 1.4693580000000002e-06, 'Sequence': 'inverse', 'Time Stamp': '18-07-12-12-55'}

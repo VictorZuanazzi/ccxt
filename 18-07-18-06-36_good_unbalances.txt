@@ -1,0 +1,4 @@
+### Possibly profitable unbalances ###
+{'profit_coin': 'BTC', 'trair': ['CAT/BTC', 'CAT/ETH', 'ETH/BTC'], 'Unbalance factor': 1.0035577734844632, 'Volume': 1.32e-10, 'Volumes': [0.0001, 6.8041237113402065e-06, 1.9469020805598583e-09], 'Sequence': 'inverse', 'Time Stamp': '18-07-18-06-47'}
+{'profit_coin': 'ETH', 'trair': ['DRGN/ETH', 'DRGN/NEO', 'NEO/ETH'], 'Unbalance factor': 1.0062721918932895, 'Volume': 7.58e-08, 'Volumes': [0.000100013194352817, 7.896655901656424e-06, 9.66048123980424e-07], 'Sequence': 'inverse', 'Time Stamp': '18-07-18-06-50'}
+{'profit_coin': 'ETH', 'trair': ['DRGN/ETH', 'DRGN/USDT', 'ETH/USDT'], 'Unbalance factor': 1.0032202631578948, 'Volume': 0.00013619463, 'Volumes': [0.17969999999999997, 0.00035840692105263154, 0.00013619463], 'Sequence': 'inverse', 'Time Stamp': '18-07-18-06-50'}
