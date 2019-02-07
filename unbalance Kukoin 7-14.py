@@ -370,7 +370,7 @@ def load_exchange():
     try:
         exchange = ccxt.kucoin()
         exchange.apiKey = '5b4781fa91ed2941605c7f0d'
-        exchange.secret = '09b20a05-f889-4f12-a1b2-1a0e6bba7b4d'
+        exchange.secret = ''
         market = exchange.load_markets()
     except (ccxt.RequestTimeout, ccxt.ExchangeError) as error:
         print("Be patient, we are trying to connect to the exchange.")
